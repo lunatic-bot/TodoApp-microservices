@@ -66,6 +66,6 @@ To get started with this project, you will need to have Docker and Python 3.9+ i
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todo-microservices.git
+   git clone https://github.com/lunatic-bot/TodoApp-microservices.git
    cd todo-microservices
    ```
